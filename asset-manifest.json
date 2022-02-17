@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/remix-template/static/css/main.073c9b0a.css",
+    "main.js": "/remix-template/static/js/main.77a7f058.js",
+    "static/js/787.28cb0dcd.chunk.js": "/remix-template/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/remix-template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/remix-template/index.html",
+    "main.073c9b0a.css.map": "/remix-template/static/css/main.073c9b0a.css.map",
+    "main.77a7f058.js.map": "/remix-template/static/js/main.77a7f058.js.map",
+    "787.28cb0dcd.chunk.js.map": "/remix-template/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77a7f058.js"
+  ]
+}
